@@ -6,13 +6,14 @@
   The first step was to install the json and inquirer packages to the file. The next step I took was to use the require method to use inquirer. Then I started to create the questions for the README. After that I have created the function to create the README file directory so that it stores the text that the user inputs in the terminal. Then I have created the functions for the license badges to appear if chosen in the generateMarkdown file that is inside the utils folder; inside the same file I had to create a function to generate markdown for the README file so that the text would be passed to the README file.
   ## Usage
   Google Drive Video Link: https://drive.google.com/file/d/1dabTqdSe9wkMgtmzr1-zBOl7sUrGoWn8/view?usp=sharing
-   
+
   ## Contributors
   Piero Rodriguez(Me) https://github.com/Piero9992023
   
   ## License
   NONE
   https://opensource.org/licenses/
-  ##Links
+  
+  ## Links
   https://github.com/Piero9992023/README-Generator
 
